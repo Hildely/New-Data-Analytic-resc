@@ -4,3 +4,6 @@
 
 ## SQL: 
 https://www.youtube.com/watch?v=27axs9dO7AE  What is SQL?
+
+## Data Analyst Bootcamp for Beginners (SQL, Tableau, Power BI, Python, Excel, Pandas, Projects, more)
+https://www.youtube.com/watch?v=PSNXoAs2FtQ&t=1484s
