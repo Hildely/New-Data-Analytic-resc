@@ -10,3 +10,6 @@ https://www.youtube.com/watch?v=PSNXoAs2FtQ&t=1484s
 
 ## SQL for Data Analytics - Learn SQL in 4 Hours:
 [https://www.youtube.com/watch?v=h0nxCDiD-zg](https://www.youtube.com/watch?v=7mz73uXD9DA)
+
+## Learn to Code WITH W3 School 
+https://www.w3schools.com/
