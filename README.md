@@ -13,3 +13,6 @@ https://www.youtube.com/watch?v=PSNXoAs2FtQ&t=1484s
 
 ## Learn to Code WITH W3 School 
 https://www.w3schools.com/
+
+## Tableau Tutorials for Beginners
+Full Beginner Project in Tableau | Tableau Tutorials for Beginners
